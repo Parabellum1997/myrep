@@ -7,3 +7,5 @@ elif a == 0:
   print('NO')
 else:
   print('Maybe')
+
+print(a)
